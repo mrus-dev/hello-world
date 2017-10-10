@@ -6,4 +6,4 @@ Zmiana w Eclipse...
 
 Zmiana 2 w Eclipse!
 
-TEST
+TEST1
