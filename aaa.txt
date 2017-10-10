@@ -5,3 +5,5 @@ Zmiana 1.
 Zmiana w Eclipse...
 
 Zmiana 2 w Eclipse!
+
+TEST
