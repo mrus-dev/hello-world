@@ -2,4 +2,6 @@ Pierwotna wersja pliku.
 
 Zmiana 1.
 
-Zmiana w Eclpise...
+Zmiana w Eclipse...
+
+Zmaian2 w Eclipse!
