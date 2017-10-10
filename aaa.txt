@@ -1,3 +1,5 @@
 Pierwotna wersja pliku.
 
 Zmiana 1.
+
+Zmiana w Eclpise...
