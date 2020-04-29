@@ -12,3 +12,5 @@ TEST1
 visual studio code (1);
 visual studio code (2);
 visual studio code (3);
+
+Zmiana 29.04.2020 :)
